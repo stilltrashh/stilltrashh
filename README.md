@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @stilltrashh!
+### Hi there, I'm stilltrashh 👋
+
+
 - 🌱 I am currently learning everything!
 <!---
 stilltrashh/stilltrashh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
